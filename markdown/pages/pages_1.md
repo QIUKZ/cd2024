@@ -1,6 +1,6 @@
 Title: About
 
-# 41136113 倉儲
+# cmsimde 內容管理系統
 
 倉儲: <a href="https:github.com/QIUKZ/cd2024">https:github.com/QIUKZ/cd2024</a>
 
