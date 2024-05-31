@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41136113協同產品設計實習 - w15</title><link href="./" rel="alternate"></link><link href="./feeds/w15.atom.xml" rel="self"></link><id>./</id><updated>2024-05-31T19:00:00+08:00</updated><entry><title>W15 課程</title><link href="./2024-Spring-w15-blog-tutorial.html" rel="alternate"></link><published>2024-05-31T19:00:00+08:00</published><updated>2024-05-31T07:34:16+08:00</updated><author><name>41136113(第一組)</name></author><id>tag:None,2024-05-31:./2024-Spring-w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;由於上禮拜錄影沒有錄到PYTHON數值本周將進行重錄&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;由於上禮拜錄影沒有錄到PYTHON數值本周將進行重錄&lt;/p&gt;
+
+
+&lt;h1&gt;本周製作內容&lt;/h1&gt;
+&lt;h1&gt;W15&lt;/h1&gt;
+&lt;p&gt;1.NX中使用Python錄製沒成功，因此我們轉向手動繪製零件。目前我們面臨一個問題，即繪製好的零件已經是一個最終結果，無法讓程式理解其繪製過程，從而無法生成繪製過程的程式碼。&lt;/p&gt;
+&lt;p&gt;2.由組長在向老師請教後，我了解到，雖然我們無法直接修改這些繪製過程，但可以運用“參數化設計”的概念。這意味著，重點不在於最終生成的零件檔案，而是能夠從中提取出可以更改的參數。在不同形狀和幾何結構中，有一些固定的變數參數，我們可以通過這些參數在程式中進行修改，這才是設計過程中最為重要的部分。&lt;/p&gt;
+&lt;p&gt;3.我們正在嘗試開啟模擬球場進行測試和驗證。這是組長本周要求我們完成的任務&lt;/p&gt;</content><category term="w15"></category><category term="新任務 重新錄影"></category></entry></feed>
